@@ -1,9 +1,9 @@
-[center][color=#000000][img=779x321]https://i.imgur.com/rLv8OL2.png[/img][/color][/center]
-[center][color=#000000][font=Arial][b][color=deepskyblue][size=5]BlissLabs [/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/color][/font][/color][/center]
-[center][color=#000000][font=Arial][b][size=7]Bliss-OS for PCs[/size][/b][/font][/color][/center]
-[center][color=#000000][font=Arial][b][size=6]Based on Android [/size][/b][/font][/color][/center]
-[center][color=#000000][size=4][font=Arial][b][color=#44b8ff]An Open Source OS, based on Android, that incorporates many customizations options and added security features. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years[/color][/b][/font][/size][/color][/center]
-[color=#000000][font=Arial]
+[center][color=#ffffff][color=#000000][img=779x321]https://i.imgur.com/rLv8OL2.png[/img][/color][/color][/center]
+[center][color=#ffffff][color=#000000][font=Arial][b][color=deepskyblue][size=5]BlissLabs [/size][/color][/b][color=deepskyblue][size=5]is pleased to present to you[/size][/color][/font][/color][/color][/center]
+[center][color=#ffffff][color=#000000][font=Arial][b][size=7]Bliss-OS for PCs[/size][/b][/font][/color][/color][/center]
+[center][color=#ffffff][color=#000000][font=Arial][b][size=6]Based on Android [/size][/b][/font][/color][/color][/center]
+[center][color=#ffffff][color=#000000][size=4][font=Arial][b][color=#44b8ff]An Open Source OS, based on Android, that incorporates many customizations options and added security features. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years[/color][/b][/font][/size][/color][/color][/center]
+[color=#ffffff][color=#000000][font=Arial]
 [b]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/b][/font]
 [font=Arial]
 [b]Bliss-OS comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/b]
@@ -107,15 +107,15 @@ Please familiarize yourself with the methods of install as well as what could go
 [b]
 We have moved the instructions to be a part of our [url=http://docs.blissroms.com/]docs site[/url][/b]
 
-[/color]
+[/color][/color]
 [ul]
-[li][color=#000000]For the main instructions to get going with Bliss OS, you can check out our [url=https://docs.blissroms.com/Bliss%20OS/installation-guide/]Installation Guide[/url][/color][/li]
-[li][color=#000000]If you get into a bind with your install, you should see our [url=https://docs.blissroms.com/Bliss%20OS/troubleshooting/]Troubleshooting section[/url][/color][/li]
-[li][color=#000000]For the few addons and other info we have for Bliss OS installs, you can check out our [url=https://docs.blissroms.com/Bliss%20OS/extras/]Extras section[/url][/color][/li]
-[li][color=#000000]And if you're ready to start building and testing new things, you can check out the [url=https://docs.blissroms.com/Bliss%20OS/build-guide/]Bliss OS Build Guide[/url][/color][/li]
-[li][color=#000000]When you are ready to contribute back to the project, we also have a [url=https://docs.blissroms.com/common/git-started/]Git Started guide[/url] to help get things rolling with our Gerrit.[/color][/li]
+[li][color=#ffffff][color=#000000]For the main instructions to get going with Bliss OS, you can check out our [url=https://docs.blissroms.com/Bliss%20OS/installation-guide/]Installation Guide[/url][/color][/color][/li]
+[li][color=#ffffff][color=#000000]If you get into a bind with your install, you should see our [url=https://docs.blissroms.com/Bliss%20OS/troubleshooting/]Troubleshooting section[/url][/color][/color][/li]
+[li][color=#ffffff][color=#000000]For the few addons and other info we have for Bliss OS installs, you can check out our [url=https://docs.blissroms.com/Bliss%20OS/extras/]Extras section[/url][/color][/color][/li]
+[li][color=#ffffff][color=#000000]And if you're ready to start building and testing new things, you can check out the [url=https://docs.blissroms.com/Bliss%20OS/build-guide/]Bliss OS Build Guide[/url][/color][/color][/li]
+[li][color=#ffffff][color=#000000]When you are ready to contribute back to the project, we also have a [url=https://docs.blissroms.com/common/git-started/]Git Started guide[/url] to help get things rolling with our Gerrit.[/color][/color][/li]
 [/ul]
-[color=#000000][font=Arial]
+[color=#ffffff][color=#000000][font=Arial]
 
 
 [img]https://i.imgur.com/aWICthQ.png[/img]
@@ -137,9 +137,9 @@ Clear all previous logs and take the exact steps to produce the error you are re
 As soon as you receive the error (probably a force close), go straight into Catlog and stop the log recording.[font=Arial]
 
 [b][size=4]Manual Logging:[/size] [/b]
-[/font]Use the alt-f1 console, and in the console, type:[/color]
+[/font]Use the alt-f1 console, and in the console, type:[/color][/color]
 [code]logcat > sdcard/log_name.txt[/code]
-[color=#000000]
+[color=#ffffff][color=#000000]
 Then alt-f7 to get back to the Android UI, and replacate the issue. When done, use alt-f1 to go back to console and ctrl-c to stop the logging.
 Copy and paste the entire log either to [url=http://hastebin.com]Hastebin[/url] or [url=http://pastebin.com]Pastebin[/url][font=Arial]
 
@@ -188,13 +188,13 @@ Training, development opportunities, design opportunities, build servers when av
 The OP and most recent discussions will generally help to answer any questions you will encounter. If not, we will do our best to answer your questions & concerns as soon as possible.
 
 We will also simply direct you to the OP if the answer is contained there. We encourage community minded interactions: users helping fellow users allows Team Bliss to focus on the work involved to make things Blissful.
-[/color]
+[/color][/color]
 [ul]
-[li][color=#000000]Please do not ask for ETA's[/color][/li]
-[li][color=#000000]We will not tolerate any rudeness or anyone being disrespectful in this thread. Moderators, feel free to enforce anything you feel is necessary to stop bad posts[/color][/li]
-[li][color=#000000]Team Bliss will allow some minor off-topic comments in our development threads. Please post in the general forums for off-topic comments and/or questions. Overall, please keep comments relevant to development, as this better helps you and our teamwhen trying to determine problems that users are having. We appreciate all levels of knowledge in our threads, and therefore we ask that the seasoned members be helpful to those with less knowledge. Most importantly, do NOT troll those with less knowledge than yourself.[/color][/li]
+[li][color=#ffffff][color=#000000]Please do not ask for ETA's[/color][/color][/li]
+[li][color=#ffffff][color=#000000]We will not tolerate any rudeness or anyone being disrespectful in this thread. Moderators, feel free to enforce anything you feel is necessary to stop bad posts[/color][/color][/li]
+[li][color=#ffffff][color=#000000]Team Bliss will allow some minor off-topic comments in our development threads. Please post in the general forums for off-topic comments and/or questions. Overall, please keep comments relevant to development, as this better helps you and our teamwhen trying to determine problems that users are having. We appreciate all levels of knowledge in our threads, and therefore we ask that the seasoned members be helpful to those with less knowledge. Most importantly, do NOT troll those with less knowledge than yourself.[/color][/color][/li]
 [/ul]
-[color=#000000]
+[color=#ffffff][color=#000000]
 Should you feel inclined to not abide by our request, the XDA Moderators may be called in to remove posts. We thank you for adhering to our thread rules.
 [font=Arial]
 
@@ -216,8 +216,8 @@ Should you feel inclined to not abide by our request, the XDA Moderators may be 
 
 [color=DeepSkyBlue][b]Thank you for using Bliss!  And as always: #StayBlissful[/b] [/color][/font][/color]
 
-testing
-[center][color=#000000][img=779x321]https://i.imgur.com/rLv8OL2.png[/img][/color]
+testing[/color]
+[center][color=#ffffff][color=#000000][img=779x321]https://i.imgur.com/rLv8OL2.png[/img][/color]
 [size=5][b][color=#000000][font=Arial][color=deepskyblue]BlissLabs is pleased to present to you[/color][/font][/color][/b][/size]
 [size=5][b][color=#000000][font=Arial][size=7]Bliss-OS for PCs[/size][/font][/color][/b][/size]
 [size=5][b][color=#000000][font=Arial][size=6]Based on Android [/size][/font][/color][/b][/size]
@@ -226,56 +226,55 @@ testing
 
 [size=4]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/size][/font][size=4]
 [font=Arial]
-Bliss-OS comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/font][/size][/color][/b][/center]
+Bliss-OS comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/font][/size][/color][/b][/color][/center]
 [center][/center]
-[center][color=#000000][size=6][font=Arial][b]Information:[/b][/font][/size][/color][/center]
+[center][color=#ffffff][color=#000000][size=6][font=Arial][b]Information:[/b][/font][/size][/color][/color][/center]
 [center][/center]
-[center][color=#000000][size=2][font=Arial]We started out our project with Bliss-x86 back in KitKat, and our first public release was with Android Marshmallow. Since then, we have been working with Android-x86 Project as part of their team, providing access to our infrastructure like Slack, GSuite, build servers, and more. Together we explore the potential options and development futures of Android-x86 project and integrate those options into Bliss OS. The parts that are chosen to work well with Android-x86 project (non-ROM based AOSP) are adopted and merged into Android-x86 base source code. This gives our project(s) a little wiggle room to try some out of the box thinking, and that is what we focus on here for development. 
+[center][color=#ffffff][color=#000000][size=2][font=Arial]We started out our project with Bliss-x86 back in KitKat, and our first public release was with Android Marshmallow. Since then, we have been working with Android-x86 Project as part of their team, providing access to our infrastructure like Slack, GSuite, build servers, and more. Together we explore the potential options and development futures of Android-x86 project and integrate those options into Bliss OS. The parts that are chosen to work well with Android-x86 project (non-ROM based AOSP) are adopted and merged into Android-x86 base source code. This gives our project(s) a little wiggle room to try some out of the box thinking, and that is what we focus on here for development. 
 
-Those that would like to learn along side us are welcome to join our socials and start working along side us. If you choose to make your contributions official, we do have a form to join BlissLabs. If you are a project that wants to help rally along side with us, we also have a Project Application you could fill out for BlissLabs. Checkout that website for more info. [/font][/size][/color][/center]
-[center]
+Those that would like to learn along side us are welcome to join our socials and start working along side us. If you choose to make your contributions official, we do have a form to join BlissLabs. If you are a project that wants to help rally along side with us, we also have a Project Application you could fill out for BlissLabs. Checkout that website for more info. [/font][/size][/color][/color][/center]
+[center][color=#ffffff]
 
-[img=613x153]https://i.imgur.com/W7qrLy7.png[/img]
+[img=620x174]https://i.imgur.com/mqSWLCf.png[/img]
 
 [size=5][b][url=https://blissos.org]Bliss OS Website[/url]
 [/b][/size]
 
 
-[img=610x153]https://i.imgur.com/t6pnQII.png[/img]
-[/center]
-[center][b][color=#000000][color=#c14700][size=5]Team Bliss is not responsible in any way for anything that happens to your device in the process of installing[/size][/color][/color][/b][/center]
+[/color][/center]
+[center][color=#ffffff][b][color=#000000][color=#c14700][size=5]Team Bliss is not responsible in any way for anything that happens to your device in the process of installing[/size][/color][/color][/b][/color][/center]
 [center][/center]
-[center][color=#000000]Please familiarize yourself with the methods of install as well as what could go wrong before moving forward.  Please make sure you download the correct version of Bliss for your specific device.  The links are labeled clearly.[/color][/center]
+[center][color=#ffffff][color=#000000]Please familiarize yourself with the methods of install as well as what could go wrong before moving forward.  Please make sure you download the correct version of Bliss for your specific device.  The links are labeled clearly.[/color][/color][/center]
 [center][/center]
-[center][color=#000000][b][size=5][b]We have moved the instructions to be a part of our [/b][url=https://docs.blissos.org]docs site[/url][/size][/b][/color][/center]
+[center][color=#ffffff][color=#000000][b][size=5]We have moved the instructions to be a part of our [url=https://docs.blissos.org]docs site[/url][/size][/b][/color][/color][/center]
 [center][/center]
 [center][/center]
 [ul]
-[li][color=#000000]For the main instructions to get going with Bliss OS, you can check out our docs site. Installation methods are the first things listed[/color][/li]
-[li][color=#000000]If you get into a bind with your install, you should check out our knowledgebase section[/color][/li]
-[li][color=#000000]And if you're ready to start building and testing new things, you can check out the development section of the docs site[/color][/li]
-[li][color=#000000]When you are ready to contribute back to the project, we also have a Development section to the docs you should check out. [/color][/li]
+[li][color=#ffffff][color=#000000]For the main instructions to get going with Bliss OS, you can check out our docs site. Installation methods are the first things listed[/color][/color][/li]
+[li][color=#ffffff][color=#000000]If you get into a bind with your install, you should check out our knowledgebase section[/color][/color][/li]
+[li][color=#ffffff][color=#000000]And if you're ready to start building and testing new things, you can check out the development section of the docs site[/color][/color][/li]
+[li][color=#ffffff][color=#000000]When you are ready to contribute back to the project, we also have a Development section to the docs you should check out. [/color][/color][/li]
 [/ul]
-[center][color=#000000]
-For budding developers, we also create the [url=https://android-generic.github.io]Android-Generic Project[/url] as a way to help make the Android-x86 development process a little easier to learn. [/color][/center]
+[center][color=#ffffff][color=#000000]
+For budding developers, we also create the [url=https://android-generic.github.io]Android-Generic Project[/url] as a way to help make the Android-x86 development process a little easier to learn. [/color][/color][/center]
 
-[center]
-[size=5][img=612x153]https://i.imgur.com/Us6vNXB.png[/img]
+[center][color=#ffffff]
+[size=5][img=620x174]https://i.imgur.com/euTcKvj.png[/img]
 
 [b][url=https://github.com/BlissRoms/bug_reports/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+%3C%21--+Add+your+summary+of+bug+faced+here+--%3E]Create Bug Report on our Issues Tracker[/url][/b]
 
 
-[img=635x159]https://i.imgur.com/xyYAe3t.png[/img]
+[img=620x174]https://i.imgur.com/DnM6EP9.png[/img]
 
 [b][url=https://github.com/BlissRoms-x86]Bliss OS Github[/url]
 [url=https://review.blissos.org/]Bliss OS Gerrit[/url]
-[url=https://github.com/BlissRoms-x86/kernel_common]Kernel Source[/url][/b][/size][/center]
-[center][size=5][b][url=https://github.com/supremegamers/external_kernel-drivers]Kernel Drivers Source[/url][/b][/size][/center]
-[center][size=5][b][url=https://github.com/hmtheboy154/device_generic_firmware]Kernel Firmware Source[/url][/b][/size][/center]
+[url=https://github.com/BlissRoms-x86/kernel_common]Kernel Source[/url][/b][/size][/color][/center]
+[center][color=#ffffff][size=5][b][url=https://github.com/supremegamers/external_kernel-drivers]Kernel Drivers Source[/url][/b][/size][/color][/center]
+[center][color=#ffffff][size=5][b][url=https://github.com/hmtheboy154/device_generic_firmware]Kernel Firmware Source[/url][/b][/size][/color][/center]
 [center][/center]
-[center][size=5][b][url=https://docs.blissos.org/]Development Documentation[/url]
+[center][color=#ffffff][size=5][b][url=https://docs.blissos.org/]Development Documentation[/url]
 [/b]
-[img=636x159]https://i.imgur.com/4EQy8kq.png[/img]
+[img=620x174]https://i.imgur.com/eynCYVQ.png[/img]
 
 [b]| [url=https://blissos.org]Website[/url] | [url=https://blog.blissos.org]Blog[/url] | 
 | [url=https://www.facebook.com/BlissFamilyOfROMs]Facebook[/url] | [url=https://twitter.com/stayblissful]Twitter[/url] | [url=https://www.instagram.com/blissroms]Instagram[/url] | [url=https://t.me/Team_Bliss_Community]Telegram Group[/url] | [url=https://t.me/BlissROM_Updates]Telegram Channel[/url] | [/b]
@@ -283,4 +282,4 @@ For budding developers, we also create the [url=https://android-generic.github.i
 [b]If someone wants to donate, please do so via this PayPal link
 [size=3][url=https://www.paypal.com/donate/?hosted_button_id=J5SLZ7MQNCT24][img]https://imgur.com/2rw5ves.png[/img][/url][/size][/b][/size]
 
-[size=5][b][color=deepskyblue]Thank you for using BlissRoms!  And as always: #StayBlissful[/color][/b][/size][/center]
+[size=5][b][color=deepskyblue]Thank you for using BlissRoms!  And as always: #StayBlissful[/color][/b][/size][/color][/center]
