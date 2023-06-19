@@ -5,15 +5,16 @@
 [size=5][b][font=Arial][size=7]Bliss-OS for PCs[/size][/font][/b][/size]
 [size=5][b][font=Arial][size=6]Based on Android[color=#000000] [/color][/size][/font][/b][/size]
 [size=5][color=#000000][b][size=4][font=Arial][color=#44b8ff]An Open Source OS, based on Android, that incorporates many customizations options and added security features. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years[/color][/font][/size][/b][/color][/size]
-[b][font=Arial]
 
-[size=4]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/size][/font][size=4]
-[font=Arial]
-Bliss-OS comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/font][/size][/b][/color][/center]
+[/color]
+[center][color=#000000][b][font=Arial][b][font=Verdana, Arial, Helvetica, sans-serif][font=Arial][size=4]Our focus is to bring the Open Source community a quality OS that can run on all your devices as a daily driver, syncing your apps + settings + customizations across all platforms you run Bliss on.[/size][/font][/font][/b][/font][/b][/color][/center]
+
+[center][color=#000000][b][size=4][b][size=4][font=Arial]Bliss-OS comes with a wide selection of customization options from around the Android community as well as unique options developed by our team. With so many options available, you’ll find it hard not to enjoy the Blissful experience.[/font][/size][/b][/size][/b][/color][/center]
+[/center]
 [center][/center]
 [center][color=#000000][size=6][font=Arial][b]Information:[/b][/font][/size][/color][/center]
 [center][/center]
-[center][color=#000000][size=2][font=Arial]We started out our project with Bliss-x86 back in KitKat, and our first public release was with Android Marshmallow. Since then, we have been working with Android-x86 Project as part of their team, providing access to our infrastructure like Slack, GSuite, build servers, and more. Together we explore the potential options and development futures of Android-x86 project and integrate those options into Bliss OS. The parts that are chosen to work well with Android-x86 project (non-ROM based AOSP) are adopted and merged into Android-x86 base source code. This gives our project(s) a little wiggle room to try some out of the box thinking, and that is what we focus on here for development. 
+[center][color=#000000][size=4][font=Arial]We started out our project with Bliss-x86 back in KitKat, and our first public release was with Android Marshmallow. Since then, we have been working with Android-x86 Project as part of their team, providing access to our infrastructure like Slack, GSuite, build servers, and more. Together we explore the potential options and development futures of Android-x86 project and integrate those options into Bliss OS. The parts that are chosen to work well with Android-x86 project (non-ROM based AOSP) are adopted and merged into Android-x86 base source code. This gives our project(s) a little wiggle room to try some out of the box thinking, and that is what we focus on here for development. 
 
 Those that would like to learn along side us are welcome to join our socials and start working along side us. If you choose to make your contributions official, we do have a form to join BlissLabs. If you are a project that wants to help rally along side with us, we also have a Project Application you could fill out for BlissLabs. Checkout that website for more info. [/font][/size][/color][/center]
 [center][color=#000000][color=#000000]
@@ -68,5 +69,5 @@ For budding developers, we also create the [url=https://android-generic.github.i
 [/b][/size][/color][/center]
 [center][color=#000000][size=4][b]Or use our [url=https://smile.amazon.com/ch/82-3580195]Amazon Smile link[/url] to let a % of your purchases go toward our organization[/b][/size][/color][/center]
 [center][color=#000000]
-[size=5][color=#000000][b][color=deepskyblue]Thank you for using BlissRoms!  And as always: #StayBlissful[/color][/b][/color][/size][/color][/center]
+[size=5][color=#000000][b][color=deepskyblue]Thank you for using Bliss OS!  And as always, #StayBlissful[/color][/b][/color][/size][/color][/center]
 [center][/center]
