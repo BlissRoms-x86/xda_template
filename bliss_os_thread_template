@@ -267,13 +267,17 @@ For budding developers, we also create the [url=https://android-generic.github.i
 
 [img=635x159]https://i.imgur.com/xyYAe3t.png[/img]
 
-[b][url=https://github.com/BlissRoms/]BlissRoms Github[/url]
-[url=https://review.blissroms.com/q/status:open+-is:wip]BlissRoms Gerrit[/url]
-[url=https://github.com/BlissRoms-Devices/android_kernel_asus_sm8250]Kernel Source[/url][/b]
-
+[b][url=https://github.com/BlissRoms-x86]Bliss OS Github[/url]
+[url=https://review.blissos.org/]Bliss OS Gerrit[/url]
+[url=https://github.com/BlissRoms-x86/kernel_common]Kernel Source[/url][/b][/size][/center]
+[center][size=5][b][url=https://github.com/supremegamers/external_kernel-drivers]Kernel Drivers Source[/url][/b][/size][/center]
+[center][size=5][b][url=https://github.com/hmtheboy154/device_generic_firmware]Kernel Firmware Source[/url][/b][/size][/center]
+[center][/center]
+[center][size=5][b][url=https://docs.blissos.org/]Development Documentation[/url]
+[/b]
 [img=636x159]https://i.imgur.com/4EQy8kq.png[/img]
 
-[b]| [url=https://blissroms.org]Website[/url] | [url=https://blog.blissroms.org]Blog[/url] | 
+[b]| [url=https://blissos.org]Website[/url] | [url=https://blog.blissos.org]Blog[/url] | 
 | [url=https://www.facebook.com/BlissFamilyOfROMs]Facebook[/url] | [url=https://twitter.com/stayblissful]Twitter[/url] | [url=https://www.instagram.com/blissroms]Instagram[/url] | [url=https://t.me/Team_Bliss_Community]Telegram Group[/url] | [url=https://t.me/BlissROM_Updates]Telegram Channel[/url] | [/b]
 
 [b]If someone wants to donate, please do so via this PayPal link
